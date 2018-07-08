@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\bin\Debug\netcoreapp2.1\EbuyProject.deps.json
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\bin\Debug\netcoreapp2.1\EbuyProject.runtimeconfig.json
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\bin\Debug\netcoreapp2.1\EbuyProject.runtimeconfig.dev.json
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\bin\Debug\netcoreapp2.1\EbuyProject.dll
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\bin\Debug\netcoreapp2.1\EbuyProject.pdb
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp2.1\EbuyProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp2.1\EbuyProject.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp2.1\EbuyProject.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp2.1\EbuyProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp2.1\EbuyProject.AssemblyInfo.cs
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp2.1\EbuyProject.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp2.1\EbuyProject.dll
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp2.1\EbuyProject.pdb
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp2.1\EbuyProject.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\bin\Debug\netcoreapp1.1\EbuyProject.deps.json
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\bin\Debug\netcoreapp1.1\EbuyProject.runtimeconfig.json
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\bin\Debug\netcoreapp1.1\EbuyProject.runtimeconfig.dev.json
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\bin\Debug\netcoreapp1.1\EbuyProject.dll
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\bin\Debug\netcoreapp1.1\EbuyProject.pdb
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp1.1\EbuyProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp1.1\EbuyProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp1.1\EbuyProject.AssemblyInfo.cs
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp1.1\EbuyProject.dll
+C:\Users\User\Desktop\shiran\git\EbuyServer\EbuyProject\obj\Debug\netcoreapp1.1\EbuyProject.pdb
